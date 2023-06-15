@@ -1,0 +1,11 @@
+file_format: "1"
+id: klein
+name: KLEIN
+type: shield
+url: https://github.com/snsten/Klein
+requires: [nice_nano_v2]
+features:
+  - keys
+siblings:
+  - klein_left
+  - klein_right
